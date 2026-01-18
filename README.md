@@ -7,23 +7,18 @@ An object called an Alarm may appear on the segment. Each Alarm has a coordinate
 
 Alarms occur randomly:
 
-uniformly along the segment,
-
-with a given intensity,
-
-with lognormally distributed Complexity.
+- uniformly along the segment,
+- with a given intensity,
+- with lognormally distributed Complexity.
 
 An Alarm disappears after the Agent arrives and spends time at the Alarm equal to its Complexity.
 
 The system must be simulated while collecting the following metrics:
 
-total number of Alarms,
-
-average arrival time to an Alarm,
-
-fraction of Alarms for which the arrival time exceeded a given threshold,
-
-fraction of time an Agent spends in the Busy state.
+- total number of Alarms,
+- average arrival time to an Alarm,
+- fraction of Alarms for which the arrival time exceeded a given threshold,
+- fraction of time an Agent spends in the Busy state.
 
 Time-based visualization:
 
