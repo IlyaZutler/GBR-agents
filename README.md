@@ -42,6 +42,8 @@ The Agent returns to its Home Location and is shown again as a light-blue circle
 
 
 
+
+
 Модель Агентов во времени.
 
 Агенты находятся на заданном отрезке прямой.
